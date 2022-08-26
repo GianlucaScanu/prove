@@ -38,6 +38,17 @@
     /* TODO */
 }
 
+#label{
+    font-size: x-large;
+}
+
+#signin_btn{
+    margin-right: 3%;
+}
+
+
+/*ELEMENTI AREA MIDDLE*/
+
 #col1 {
     width: 70vw;
     margin-left: 5%;
@@ -45,5 +56,5 @@
 
 #log_buttons{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
